@@ -2,7 +2,7 @@
 
 
 ### Netlify Demo
-You can try it here:   [Ai Chatbot](https://flourishing-pasca-de4e2e.netlify.app/)
+You can try it here:   [Ai Chatbot]([https://flourishing-pasca-de4e2e.netlify.app/](https://fancy-kheer-ea0c69.netlify.app/))
 
 ---
 
