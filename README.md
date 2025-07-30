@@ -1,10 +1,6 @@
 # AI Health Assistance Chatbot
 
 
-
-
----
-
 ### Netlify Demo
 You can try it here:  [ST. Valentina](https://flourishing-pasca-de4e2e.netlify.app/)
 
@@ -20,6 +16,5 @@ You can try it here:  [ST. Valentina](https://flourishing-pasca-de4e2e.netlify.a
 - CSS  
 - JavaScript  
 
----
 
 
