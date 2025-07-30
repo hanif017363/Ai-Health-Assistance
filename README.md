@@ -2,7 +2,7 @@
 
 
 ### Netlify Demo
-You can try it here:  [ST. Valentina](https://flourishing-pasca-de4e2e.netlify.app/)
+You can try it here:   [Ai Chatbot](https://flourishing-pasca-de4e2e.netlify.app/)
 
 ---
 
